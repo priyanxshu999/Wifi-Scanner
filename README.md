@@ -143,12 +143,6 @@ Example dBm mapping (static reference only):
 
 ---
 
-## 🛡 License
-
-MIT License – free to use, modify, and distribute.  
-No warranties. Use at your own risk.
-
----
 
 ## ✒️ Author
 
