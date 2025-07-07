@@ -131,7 +131,7 @@ Example dBm mapping (static reference only):
 
 ---
 
----
+
 
 ## 📸 Screenshots
 
