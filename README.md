@@ -81,11 +81,11 @@ Example dBm mapping (static reference only):
 
 | dBm Range  | Bars   | Perception    |
 |------------|--------|---------------|
-| ≥ ‑50      | ▂█▆▅▇ | Excellent     |
-| ‑60…‑51    | ▂█▆▅ | Very Good     |
-| ‑70…‑61    | ▂█▆  | Good          |
-| ‑80…‑71    | ▂█   | Fair          |
-| ≤ ‑81      | ▂    | Weak          |
+| 81-100     | ▂█▆▅▇ | Excellent     |
+| 61-80      | ▂█▆▅ | Very Good     |
+| 41-60      | ▂█▆  | Good          |
+| 21-40      | ▂█   | Fair          |
+| 0-20       | ▂    | Weak          |
 
 ---
 
