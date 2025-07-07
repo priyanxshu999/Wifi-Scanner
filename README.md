@@ -122,9 +122,8 @@ Example dBm mapping (static reference only):
 
 ## 🧪 Tested Platforms
 
-- Windows 10 & 11 (PowerShell + CMD)  
-- Kali Linux, Ubuntu 22.04+, Arch Linux  
-- Python 3.8+
+- Windows 11 (PowerShell + CMD)  
+- Kali Linux
 
 ---
 
