@@ -4,17 +4,7 @@
 This Python tool enumerates nearby Wi‑Fi access points on **Windows** or **Linux** and displays their signal strength in both dBm and a five‑bar visual scale.  
 Built for pentesters, sysadmins, and anyone who needs reliable network intel without bulky GUI overhead.
 
----
 
-## 📸 Screenshots
-
-### 🔍 Scan Output (with Bars)
-![Scan with bars](assets/pic1.png)
-
-### 📁 JSON Output File
-![JSON output](assets/pic2.png)
-
----
 
 ## ⚙️ Features
 
@@ -138,6 +128,18 @@ Example dBm mapping (static reference only):
 
 - **File**: `wifi_scan.json`  
 - **Format**: List of dictionaries with SSID, BSSID, and signal value
+
+---
+
+---
+
+## 📸 Screenshots
+
+### 🔍 Scan Output (with Bars)
+![Scan with bars](assets/pic1.png)
+
+### 📁 JSON Output File
+![JSON output](assets/pic2.png)
 
 ---
 
